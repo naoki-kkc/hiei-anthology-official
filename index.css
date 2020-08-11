@@ -1,0 +1,42 @@
+.flex{
+    display:flex;
+}
+
+.member-name{
+    width:150px;
+    margin:15px 0 0 10px;
+
+}
+
+.member-list{
+    /* background-color:yellow; */
+}
+
+.member-list > img{
+    height:50px;
+    width:50px;
+    border:1px green solid;
+    border-radius: 50%;
+}
+
+.twitter-btn img{
+    height:25px;
+    width:25px;
+    margin:15px 0 0 0;
+}
+
+.pixiv-btn img{
+    height:25px;
+    width:25px;
+    margin:15px 0 0 15px;
+}
+
+.specialthanks{
+    width:300px;
+    margin:15px auto 0;
+    
+}
+
+.specialthanks p{
+    margin:15px 10px 0 0;
+}
